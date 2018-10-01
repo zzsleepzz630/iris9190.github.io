@@ -6,7 +6,7 @@ categories: Conference
 permalink: /archivers/IBM_Developer_Connect_2017
 ---
 
-# IBM Developer Connect 2017  
+# IBM Developer Connect 2017 세션발표  
 
 ![](media/15102006901706.jpg)  
  
