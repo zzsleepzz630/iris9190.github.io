@@ -9,8 +9,7 @@ permalink: /archivers/IBM_Developer_Connect_2017
 # IBM Developer Connect 2017 세션발표  
 ![functions](https://github.com/sunghun7511/Writeup/raw/master/ctf/codegate/2018-Prequal/Reversing/easy_serial/functions.PNG)
 
-
-![](https://github.com/iris9190/iris9190.github.io/blob/master/_posts/media/15102006901706.jpg)  
+![15102006901706](https://github.com/iris9190/iris9190.github.io/blob/master/_posts/media/15102006901706.jpg)  
  
 ## 서버리스, 클라우드 컴퓨팅 진화의 다음 단계  
 Open Whisk에 대한 소개
