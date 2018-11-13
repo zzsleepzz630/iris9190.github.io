@@ -18,7 +18,7 @@
     padding: 1px 8px;
 
     &:hover, &:focus {
-        color: #666;
+        color: #777;
     }
 }
 .post-list {
@@ -37,7 +37,7 @@
     }
     .post-meta {
     	font-size: $small-font-size;
-    	color: #666;
+    	color: #777;
         margin: 0 20px;
         margin-bottom: .5em;
     }
@@ -50,12 +50,12 @@
 	        color: #333;
         }
         code, pre, pre * {
-            color: #666;
+            color: #777;
             background-color: #eee;
         }
         th {
             border-color: #ccc;
-            background-color: #ccc;
+            background-color: #777;
         }
         a {
             color: $color-link-hover;
